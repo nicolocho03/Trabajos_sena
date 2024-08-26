@@ -1,0 +1,15 @@
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.AssemblyInfoInputs.cache
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.AssemblyInfo.cs
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.csproj.CoreCompileInputs.cache
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.sourcelink.json
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\bin\Debug\net8.0\Divisas.exe
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\bin\Debug\net8.0\Divisas.deps.json
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\bin\Debug\net8.0\Divisas.runtimeconfig.json
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\bin\Debug\net8.0\Divisas.dll
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\bin\Debug\net8.0\Divisas.pdb
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.dll
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\refint\Divisas.dll
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.pdb
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\Divisas.genruntimeconfig.cache
+C:\Users\sseba\OneDrive\Escritorio\Trabajos_sena\C#\Divisas\obj\Debug\net8.0\ref\Divisas.dll
